@@ -5,6 +5,9 @@ Welcome to webcamtest.io, a simple yet powerful web tool designed to assist user
 
 With webcamtest.io, you can effortlessly ensure that your essential hardware components are in optimal working condition. Here's what you can do:
 
+
+[Check Your WebCam Now!](https://webcammictest.io/)
+
 ### Webcam/Camera Check
 Verify that your webcam or camera is functioning correctly with our easy-to-use testing interface. Whether it's for virtual meetings, online classes, or video calls with loved ones, having a reliable webcam is essential.
 
